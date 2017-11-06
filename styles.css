@@ -1,0 +1,36 @@
+/*Global Styles
+---------------*/
+/* RGB */
+body {
+  background: lightblue; }
+
+img {
+  width: 540px;
+  height: auto; }
+
+div.line1 {
+  background: #e8fccf;
+  color: black; }
+
+div.line2 {
+  background: #96e072;
+  color: black; }
+
+div.line3 {
+  background: #3f8a36;
+  color: black; }
+
+div.line4 {
+  background: #005c26;
+  color: white; }
+
+div.line5 {
+  background: #172815;
+  color: white; }
+
+/*Header & Footer
+-----------------*/
+/* Work Experiance
+------------------*/
+
+/*# sourceMappingURL=styles.css.map */

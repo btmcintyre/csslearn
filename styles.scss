@@ -1,0 +1,61 @@
+
+/*Global Styles
+---------------*/
+
+/* RGB */
+
+$colour1: rgba(232, 252, 207, 1);
+$colour2: rgba(150, 224, 114, 1);
+$colour3: rgba(63, 138, 54, 1);
+$colour4: rgba(0, 92, 38, 1);
+$colour5: rgba(23, 40, 21, 1);
+$colour6: rgba(0, 0, 0, 1);
+$colour7: rgba(255, 255, 255, 1);
+
+
+body {
+	background: lightblue;
+}
+
+img {
+	width: 540px;
+	height: auto;
+}
+
+div.line1 {
+	background: $colour1;
+	color: $colour6;
+}
+
+div.line2 {
+	background: $colour2;
+	color: $colour6;
+}
+
+div.line3 {
+	background: $colour3;
+	color: $colour6;
+}
+
+div.line4 {
+	background: $colour4;
+	color: $colour7;
+}
+
+div.line5 {
+	background: $colour5;
+	color: $colour7;
+}
+
+
+
+
+
+/*Header & Footer
+-----------------*/
+
+/* Work Experiance
+------------------*/
+
+
+
